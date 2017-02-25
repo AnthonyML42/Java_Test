@@ -9,5 +9,5 @@ public class Class1
 		int x = 10;
 		int y =  3;
 		int result = x % y;
-		System.out.plintln("result = " + result);
+		System.out.println("result = " + result);
 }
